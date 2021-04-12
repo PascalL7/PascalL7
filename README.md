@@ -1,9 +1,18 @@
-### Hi there 👋
+Bonjour,
+
+Je code depuis plusieurs années, et en différents langages.
+
+- 🔭 En ce moment, je suis plutôt sur PHP 8.0
+
+- 🌱 Je suis intéressé oar d'autres technologies comme Golang ou Rust.
+
+A bientôt,
+
+Pascal.
+
 
 <!--
 **PascalL7/PascalL7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
