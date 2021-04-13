@@ -4,7 +4,7 @@ Je code depuis plusieurs années, et en différents langages.
 
 - 🔭 En ce moment, je suis plutôt sur PHP 8.0
 
-- 🌱 Je suis intéressé oar d'autres technologies comme Golang ou Rust.
+- 🌱 Je suis intéressé par d'autres technologies comme Golang ou Rust.
 
 A bientôt,
 
