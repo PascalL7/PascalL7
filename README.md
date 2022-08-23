@@ -2,9 +2,9 @@ Bonjour,
 
 Je code depuis plusieurs années, et en différents langages.
 
-- 🔭 En ce moment, je suis plutôt sur PHP 8.0
+- 🔭 En ce moment, je suis plutôt sur PHP 8.1 / Symfony / Laravel
 
-- 🌱 Je suis intéressé par d'autres technologies comme Golang ou Rust.
+- 🌱 Je suis intéressé par d'autres technologies comme Go
 
 A bientôt,
 
