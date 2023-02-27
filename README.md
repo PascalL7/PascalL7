@@ -1,13 +1,4 @@
-Bonjour,
 
-Je code depuis plusieurs années, et en différents langages.
-UnaryConverter est réalisé en Python, C#, Java... 
-
-Pour le moment, j'étudie Golang.
-
-A bientôt,
-
-Pascal.
 
 
 <!--
